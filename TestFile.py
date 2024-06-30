@@ -28,3 +28,4 @@ print(f"cost after discount : {item1.get_cost()}")
 item1.discount =  0.1
 item1.apply_discount()
 print(f"Cost after additional 10% discount :{item1.get_cost()}")
+#new commit
